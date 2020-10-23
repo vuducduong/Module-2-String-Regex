@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="731c62c1-46c9-48e7-8879-8d8b7ac10bbc" name="Default Changelist" comment="" />
+    <list default="true" id="731c62c1-46c9-48e7-8879-8d8b7ac10bbc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validate account/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate account/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validate email/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate email/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validate phone number/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate phone number/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validate the name of the class/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate the name of the class/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +36,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Practice" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jBrXWYtVbZOWZ3vr8A4068ykyh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,22 +69,34 @@
       <workItem from="1603288366635" duration="9558000" />
       <workItem from="1603352777671" duration="961000" />
       <workItem from="1603358413827" duration="2596000" />
-      <workItem from="1603373792490" duration="4356000" />
+      <workItem from="1603373792490" duration="6329000" />
+      <workItem from="1603414395078" duration="1600000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="427" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603300499909">
       <screen x="0" y="27" width="1288" height="741" />
     </state>
     <state x="427" y="157" width="424" height="491" key="FileChooserDialogImpl/0.27.1288.741@0.27.1288.741" timestamp="1603300499909" />
-    <state x="439" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1603377680517">
+    <state x="439" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1603379883124">
       <screen x="0" y="27" width="1288" height="741" />
     </state>
-    <state x="439" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1288.741@0.27.1288.741" timestamp="1603377680517" />
+    <state x="439" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1288.741@0.27.1288.741" timestamp="1603379883124" />
     <state x="133" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1603288554423">
       <screen x="0" y="27" width="1288" height="741" />
     </state>

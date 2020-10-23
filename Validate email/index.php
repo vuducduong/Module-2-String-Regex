@@ -2,7 +2,7 @@
 $str = 'a@gmail.com';
 $str_second = '@gmail.com';
 function isEmailRegularExpressionPattern($str){
-    $pattern = "/^[A-Za-z0-9]+[A-Za-z0-9]*@[A-Za-z0-9]+(\.[A-Za-z0-9]+)$/";
+    $pattern = "/^\w+\w*@\w+(\.\w+)$/";
     if(preg_match_all($pattern,$str)){
         echo "Invalid";
     }

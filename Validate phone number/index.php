@@ -1,6 +1,6 @@
 <?php
 function checkPhoneNumber($phoneNumber){
-    $pattern = "/^\([0-9]{2}\)\-\([0]{1}[0-9]{9}\)$/";
+    $pattern = "/^\(\d{2}\)\-\([0]{1}\d{9}\)$/";
     if(preg_match_all($pattern,$phoneNumber)){
         echo "Khớp";
     }
@@ -8,4 +8,6 @@ function checkPhoneNumber($phoneNumber){
         echo "Không khớp";
     }
 }
-checkPhoneNumber("(a8)-(22222222)");
+checkPhoneNumber("(84)-(0942211793)");
+echo"<br>";
+checkPhoneNumber("(a8)-(2222222222)");

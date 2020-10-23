@@ -1,7 +1,7 @@
 <?php
 
 function alidateAccount($str){
-    $pattern = "/^[_a-z0-9]{6,}$/";
+    $pattern = "/^\w{6,}$/";
     if(preg_match_all($pattern,$str)){
         echo "Invalid";
     }
