@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731c62c1-46c9-48e7-8879-8d8b7ac10bbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validate account/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate account/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validate email/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate email/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validate phone number/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate phone number/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validate the name of the class/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validate the name of the class/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="731c62c1-46c9-48e7-8879-8d8b7ac10bbc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +64,7 @@
       <workItem from="1603358413827" duration="2596000" />
       <workItem from="1603373792490" duration="6329000" />
       <workItem from="1603414395078" duration="1600000" />
-      <workItem from="1603426927726" duration="688000" />
+      <workItem from="1603426927726" duration="1029000" />
     </task>
     <servers />
   </component>
